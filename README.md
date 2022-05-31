@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com desenvolvimento mobile
-- 🌱 Estudando Typescript e Kotlin
+- 🌱 Estudando Typescript, NodeJs e Kotlin
 - 😄 Pronouns: ele/dele
 
 <div align="center">
