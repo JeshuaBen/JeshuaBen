@@ -1,7 +1,7 @@
 ## Olá 👋 Eu sou Jeshua Ben
 
 
-- 🔭 Atualmente trabalho com desenvolvimento mobile
+- 🔭 Atualmente trabalho NextJS e ReactJs
 - 🌱 Estudando Typescript, NodeJs e Kotlin
 - 😄 Pronouns: ele/dele
 
