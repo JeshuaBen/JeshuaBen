@@ -1,8 +1,8 @@
 ## Olá 👋 Eu sou Jeshua Ben
 
 
-- 🔭 Atualmente trabalho NextJS e ReactJs
-- 🌱 Estudando Typescript, NodeJs e Kotlin
+- 🔭 Atualmente trabalho NextJS, ReactJS, React Native e Typescript
+- 🌱 Estudando Kotlin
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -25,6 +25,6 @@
   <div>
   <a href="https://instagram.com/jeshuac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeshuacostafer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeshua-costa-0792921b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jeshuacosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
