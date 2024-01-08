@@ -1,8 +1,8 @@
 ## Olá 👋 Eu sou Jeshua Ben
 
 
-- 🔭 Atualmente trabalho NextJS, ReactJS, React Native e Typescript
-- 🌱 Estudando Kotlin
+- 🔭 Atualmente trabalho Nest, Node, Next, React, React Native e Typescript
+- 🌱 Estudando Kotlin e Elixir com Phoenix
 - 😄 Pronouns: ele/dele
 
 <div align="center">
