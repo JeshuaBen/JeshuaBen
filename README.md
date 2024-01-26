@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho Nest, Node, Next, React, React Native e Typescript
-- 🌱 Estudando Kotlin e focado no desenvolvimento mobile tanto nativo quanto cross-plataform
+- 🌱 Me aprimorando cada dia mais no contexto mobile cross-plataform com React Native.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
