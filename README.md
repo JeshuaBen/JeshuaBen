@@ -1,7 +1,7 @@
 ## Olá 👋 Eu sou Jeshua Ben
 
 
-- 🔭 Atualmente trabalho Nest, Node, Next, React, React Native e Typescript
+- 🔭 Atualmente trabalho com React Native e Typescript.
 - 🌱 Me aprimorando cada dia mais no contexto mobile cross-plataform com React Native.
 - 😄 Pronouns: ele/dele
 
